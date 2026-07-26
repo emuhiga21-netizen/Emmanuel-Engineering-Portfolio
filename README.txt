@@ -1,26 +1,10 @@
-EMMANUEL MUHIGA — MANUFACTURING ENGINEERING PORTFOLIO (VERSION 3)
+Emmanuel Muhiga — Manufacturing Engineering Portfolio (Version 3)
 
-This is a static HTML/CSS/JavaScript website ready for GitHub and Vercel.
+Upload every extracted file to the root of the existing GitHub repository.
+Files with the same names will be replaced. Vercel will redeploy automatically after the GitHub commit.
 
-UPLOAD:
-Upload every file in this folder to the root of one GitHub repository.
-Do not rename or move the files unless you also update their references.
-
-VIDEOS:
-The three project videos are embedded from YouTube, so no MP4 files are required.
-
-DEPLOYMENT ON VERCEL:
-1. Import the GitHub repository into Vercel.
-2. Select “Other” as the framework preset if prompted.
-3. Leave build and output settings blank/default.
-4. Deploy.
-
-
-PROJECT DOCUMENTS INCLUDED
+Included PDFs:
+- Emmanuel_Muhiga_Resume.pdf
 - Log_Splitter_Technical_Report.pdf
-- Whiteboard_Robot_Project_Report.pdf
-- Palletizing_Project_Report.pdf
-- Mastercam_Milling_Project_Report.pdf
-- Hydraulic_Circuit_Analysis_Report.pdf
 
-Project reports open from the case-study popups. Videos are embedded from YouTube.
+Only the Log Splitter case study includes a technical-report button. Other projects use images, case-study details, and YouTube demonstrations without PDF-report links.
