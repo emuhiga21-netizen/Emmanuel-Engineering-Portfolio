@@ -14,3 +14,13 @@ DEPLOYMENT ON VERCEL:
 2. Select “Other” as the framework preset if prompted.
 3. Leave build and output settings blank/default.
 4. Deploy.
+
+
+PROJECT DOCUMENTS INCLUDED
+- Log_Splitter_Technical_Report.pdf
+- Whiteboard_Robot_Project_Report.pdf
+- Palletizing_Project_Report.pdf
+- Mastercam_Milling_Project_Report.pdf
+- Hydraulic_Circuit_Analysis_Report.pdf
+
+Project reports open from the case-study popups. Videos are embedded from YouTube.
