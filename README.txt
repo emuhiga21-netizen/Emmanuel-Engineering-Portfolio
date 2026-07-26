@@ -1,10 +1,10 @@
-Emmanuel Muhiga — Manufacturing Engineering Portfolio (Version 3)
+FINAL VERSION 3 — GITHUB UPLOAD
 
-Upload every extracted file to the root of the existing GitHub repository.
-Files with the same names will be replaced. Vercel will redeploy automatically after the GitHub commit.
+Changes in this package:
+- Hero label changed to "Engineering Portfolio"
+- Main title changed to "Mechanical Engineer"
+- Portrait moved higher in the desktop hero section
+- All other Version 3 formatting, projects, videos and downloadable documents remain unchanged
 
-Included PDFs:
-- Emmanuel_Muhiga_Resume.pdf
-- Log_Splitter_Technical_Report.pdf
-
-Only the Log Splitter case study includes a technical-report button. Other projects use images, case-study details, and YouTube demonstrations without PDF-report links.
+Upload all files inside this folder to the root of the existing GitHub repository.
+Files with matching names will be replaced. Vercel should redeploy automatically after the GitHub commit.
